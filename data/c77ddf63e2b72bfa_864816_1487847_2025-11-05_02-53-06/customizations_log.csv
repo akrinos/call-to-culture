@@ -1,0 +1,632 @@
+created_at,user_id,user_email,article_id,key,value
+2025-06-07T14:13:17.945Z,866230,emily.hallett@inrs.ca,249561857,"""culture collection""",1
+2025-06-07T14:13:37.976Z,866230,emily.hallett@inrs.ca,249561857,"""marine""",1
+2025-06-07T14:18:42.782Z,866230,emily.hallett@inrs.ca,249561856,"""marine""",1
+2025-06-07T14:31:25.003Z,866230,emily.hallett@inrs.ca,249561808,"""marine""",1
+2025-06-07T14:31:38.516Z,866230,emily.hallett@inrs.ca,249561808,"""16S""",1
+2025-06-07T14:32:02.227Z,866230,emily.hallett@inrs.ca,249561808,"""novel isolates""",1
+2025-06-07T14:33:06.655Z,866230,emily.hallett@inrs.ca,249561808,note-13309648,1
+2025-06-07T14:33:08.916Z,866230,emily.hallett@inrs.ca,249561808,included,1
+2025-06-07T14:36:13.655Z,866230,emily.hallett@inrs.ca,249561809,note-13309770,1
+2025-06-07T14:36:23.272Z,866230,emily.hallett@inrs.ca,249561809,"""marine""",1
+2025-06-07T14:36:26.402Z,866230,emily.hallett@inrs.ca,249561809,included,-1
+2025-06-07T14:37:43.861Z,866230,emily.hallett@inrs.ca,249561810,note-13309823,1
+2025-06-07T14:37:54.288Z,866230,emily.hallett@inrs.ca,249561810,"""marine""",1
+2025-06-07T14:37:54.302Z,866230,emily.hallett@inrs.ca,249561810,"""novel isolates""",1
+2025-06-07T14:38:08.391Z,866230,emily.hallett@inrs.ca,249561810,"""long read sequencing""",1
+2025-06-07T14:38:11.106Z,866230,emily.hallett@inrs.ca,249561810,included,1
+2025-06-07T14:38:29.250Z,866230,emily.hallett@inrs.ca,249561811,included,-1
+2025-06-07T14:38:56.319Z,866230,emily.hallett@inrs.ca,249561811,note-13309866,1
+2025-06-07T14:39:24.607Z,866230,emily.hallett@inrs.ca,249561812,"""extreme environment""",1
+2025-06-07T14:39:29.672Z,866230,emily.hallett@inrs.ca,249561812,"""marine""",1
+2025-06-07T14:39:43.909Z,866230,emily.hallett@inrs.ca,249561812,"""novel isolates""",1
+2025-06-07T14:39:58.618Z,866230,emily.hallett@inrs.ca,249561812,"""long read sequencing""",1
+2025-06-07T14:41:01.703Z,866230,emily.hallett@inrs.ca,249561812,note-13309944,1
+2025-06-07T14:41:04.194Z,866230,emily.hallett@inrs.ca,249561812,included,1
+2025-06-07T14:43:50.031Z,866230,emily.hallett@inrs.ca,249561813,note-13310035,1
+2025-06-07T14:44:00.868Z,866230,emily.hallett@inrs.ca,249561813,"""marine""",1
+2025-06-07T14:44:05.961Z,866230,emily.hallett@inrs.ca,249561813,included,-1
+2025-06-07T14:45:18.472Z,866230,emily.hallett@inrs.ca,249561814,"""marine""",1
+2025-06-07T14:45:18.486Z,866230,emily.hallett@inrs.ca,249561814,"""novel isolates""",1
+2025-06-07T14:45:28.335Z,866230,emily.hallett@inrs.ca,249561814,"""18S""",1
+2025-06-07T14:46:11.243Z,866230,emily.hallett@inrs.ca,249561814,note-13310113,1
+2025-06-07T14:46:14.007Z,866230,emily.hallett@inrs.ca,249561814,included,1
+2025-06-07T14:47:35.284Z,866230,emily.hallett@inrs.ca,249561815,"""marine""",1
+2025-06-07T14:48:24.362Z,866230,emily.hallett@inrs.ca,249561815,note-13310181,1
+2025-06-07T14:48:28.315Z,866230,emily.hallett@inrs.ca,249561815,included,-1
+2025-06-07T14:49:32.875Z,866230,emily.hallett@inrs.ca,249561816,"""marine""",1
+2025-06-07T14:50:49.467Z,866230,emily.hallett@inrs.ca,249561816,note-13310262,1
+2025-06-07T14:50:52.294Z,866230,emily.hallett@inrs.ca,249561816,included,-1
+2025-06-07T14:51:11.173Z,866230,emily.hallett@inrs.ca,249561817,"""marine""",1
+2025-06-07T14:52:22.232Z,866230,emily.hallett@inrs.ca,249561817,note-13310310,1
+2025-06-07T14:52:25.609Z,866230,emily.hallett@inrs.ca,249561817,included,-1
+2025-06-07T14:52:40.471Z,866230,emily.hallett@inrs.ca,249561818,"""marine""",1
+2025-06-07T14:53:30.122Z,866230,emily.hallett@inrs.ca,249561818,note-13310349,1
+2025-06-07T14:53:32.661Z,866230,emily.hallett@inrs.ca,249561818,included,-1
+2025-06-07T14:53:48.329Z,866230,emily.hallett@inrs.ca,249561819,"""marine""",1
+2025-06-07T14:56:00.288Z,866230,emily.hallett@inrs.ca,249561819,note-13310435,1
+2025-06-07T14:56:03.454Z,866230,emily.hallett@inrs.ca,249561819,included,-1
+2025-06-07T14:56:14.756Z,866230,emily.hallett@inrs.ca,249561820,"""marine""",1
+2025-06-07T14:57:19.685Z,866230,emily.hallett@inrs.ca,249561857,"""extreme environment""",1
+2025-06-07T14:58:42.139Z,866230,emily.hallett@inrs.ca,249561857,note-13310532,1
+2025-06-07T14:58:46.302Z,866230,emily.hallett@inrs.ca,249561857,included,-1
+2025-06-07T15:01:15.246Z,866230,emily.hallett@inrs.ca,249561851,note-13310624,1
+2025-06-07T15:01:20.361Z,866230,emily.hallett@inrs.ca,249561851,"""marine""",1
+2025-06-07T15:01:26.014Z,866230,emily.hallett@inrs.ca,249561851,included,-1
+2025-06-07T15:02:01.206Z,866230,emily.hallett@inrs.ca,249561849,note-13310645,1
+2025-06-07T15:02:06.800Z,866230,emily.hallett@inrs.ca,249561849,"""marine""",1
+2025-06-07T15:02:10.760Z,866230,emily.hallett@inrs.ca,249561849,included,0
+2025-06-07T15:03:05.362Z,866230,emily.hallett@inrs.ca,249561826,"""marine""",1
+2025-06-07T15:03:05.377Z,866230,emily.hallett@inrs.ca,249561826,"""16S""",1
+2025-06-07T15:03:05.387Z,866230,emily.hallett@inrs.ca,249561826,"""novel isolates""",1
+2025-06-07T15:03:26.728Z,866230,emily.hallett@inrs.ca,249561826,included,1
+2025-06-07T15:03:58.513Z,866230,emily.hallett@inrs.ca,249561825,"""16S""",1
+2025-06-07T15:03:58.525Z,866230,emily.hallett@inrs.ca,249561825,"""marine""",1
+2025-06-07T15:03:58.536Z,866230,emily.hallett@inrs.ca,249561825,"""novel isolates""",1
+2025-06-07T15:04:05.573Z,866230,emily.hallett@inrs.ca,249561825,included,1
+2025-06-07T15:04:30.330Z,866230,emily.hallett@inrs.ca,249561827,"""long read sequencing""",1
+2025-06-07T15:04:30.343Z,866230,emily.hallett@inrs.ca,249561827,"""marine""",1
+2025-06-07T15:05:09.657Z,866230,emily.hallett@inrs.ca,249561827,note-13310731,1
+2025-06-07T15:05:12.366Z,866230,emily.hallett@inrs.ca,249561827,included,0
+2025-06-07T15:07:15.025Z,866230,emily.hallett@inrs.ca,249561821,"""marine""",1
+2025-06-07T15:08:17.993Z,866230,emily.hallett@inrs.ca,249561821,note-13310833,1
+2025-06-07T15:08:23.862Z,866230,emily.hallett@inrs.ca,249561821,included,-1
+2025-06-07T15:10:04.786Z,866230,emily.hallett@inrs.ca,249561822,"""marine""",1
+2025-06-07T15:10:30.609Z,866230,emily.hallett@inrs.ca,249561822,note-13310904,1
+2025-06-07T15:10:34.830Z,866230,emily.hallett@inrs.ca,249561822,included,-1
+2025-06-07T15:10:47.835Z,866230,emily.hallett@inrs.ca,249561823,"""marine""",1
+2025-06-07T15:11:36.585Z,866230,emily.hallett@inrs.ca,249561823,"""16S""",1
+2025-06-07T15:11:54.302Z,866230,emily.hallett@inrs.ca,249561823,note-13310946,1
+2025-06-07T15:12:36.509Z,866230,emily.hallett@inrs.ca,249561823,included,-1
+2025-06-07T15:13:17.751Z,866230,emily.hallett@inrs.ca,249561824,"""marine""",1
+2025-06-07T15:15:00.897Z,866230,emily.hallett@inrs.ca,249561824,note-13311027,1
+2025-06-07T15:15:08.946Z,866230,emily.hallett@inrs.ca,249561824,"""novel isolates""",1
+2025-06-07T15:15:12.367Z,866230,emily.hallett@inrs.ca,249561824,included,1
+2025-06-07T15:17:54.708Z,866230,emily.hallett@inrs.ca,249561837,note-13311106,1
+2025-06-07T15:18:05.277Z,866230,emily.hallett@inrs.ca,249561837,"""marine""",1
+2025-06-07T15:18:12.576Z,866230,emily.hallett@inrs.ca,249561837,included,-1
+2025-06-07T15:18:29.442Z,866230,emily.hallett@inrs.ca,249561838,"""16S""",1
+2025-06-07T15:18:29.462Z,866230,emily.hallett@inrs.ca,249561838,"""marine""",1
+2025-06-07T15:18:48.927Z,866230,emily.hallett@inrs.ca,249561838,"""18S""",1
+2025-06-07T15:18:48.938Z,866230,emily.hallett@inrs.ca,249561838,"""16S""",deleted
+2025-06-07T15:19:06.795Z,866230,emily.hallett@inrs.ca,249561838,"""novel isolates""",1
+2025-06-07T15:19:14.943Z,866230,emily.hallett@inrs.ca,249561838,note-13311137,1
+2025-06-07T15:19:17.648Z,866230,emily.hallett@inrs.ca,249561838,included,1
+2025-06-07T15:20:49.402Z,866230,emily.hallett@inrs.ca,249561839,note-13311185,1
+2025-06-07T15:21:11.942Z,866230,emily.hallett@inrs.ca,249561839,included,-1
+2025-06-07T15:22:41.690Z,866230,emily.hallett@inrs.ca,249561847,note-13311228,1
+2025-06-07T15:22:48.979Z,866230,emily.hallett@inrs.ca,249561847,"""marine""",1
+2025-06-07T15:28:40.778Z,866230,emily.hallett@inrs.ca,249561847,included,-1
+2025-06-07T15:37:03.460Z,866230,emily.hallett@inrs.ca,249561850,note-13311642,1
+2025-06-07T15:37:10.499Z,866230,emily.hallett@inrs.ca,249561850,"""marine""",1
+2025-06-07T15:37:10.512Z,866230,emily.hallett@inrs.ca,249561850,"""long read sequencing""",1
+2025-06-07T15:37:13.034Z,866230,emily.hallett@inrs.ca,249561850,included,-1
+2025-06-08T22:34:37.193Z,866230,emily.hallett@inrs.ca,249561856,note-13344588,1
+2025-06-08T22:34:42.843Z,866230,emily.hallett@inrs.ca,249561856,included,-1
+2025-06-08T22:35:14.082Z,866230,emily.hallett@inrs.ca,249561855,"""marine""",1
+2025-06-08T22:35:14.099Z,866230,emily.hallett@inrs.ca,249561855,"""16S""",1
+2025-06-08T22:35:31.774Z,866230,emily.hallett@inrs.ca,249561855,note-13344631,1
+2025-06-08T22:35:33.671Z,866230,emily.hallett@inrs.ca,249561855,included,-1
+2025-06-08T22:35:41.977Z,866230,emily.hallett@inrs.ca,249561854,"""marine""",1
+2025-06-08T22:37:00.506Z,866230,emily.hallett@inrs.ca,249561854,note-13344703,1
+2025-06-08T22:37:02.639Z,866230,emily.hallett@inrs.ca,249561854,included,-1
+2025-06-08T22:37:12.541Z,866230,emily.hallett@inrs.ca,249561853,"""marine""",1
+2025-06-08T22:38:41.838Z,866230,emily.hallett@inrs.ca,249561853,note-13344782,1
+2025-06-08T22:38:43.691Z,866230,emily.hallett@inrs.ca,249561853,included,-1
+2025-06-08T22:39:21.131Z,866230,emily.hallett@inrs.ca,249561852,included,-1
+2025-06-08T22:40:48.902Z,866230,emily.hallett@inrs.ca,249561840,note-13344876,1
+2025-06-08T22:40:52.603Z,866230,emily.hallett@inrs.ca,249561840,included,-1
+2025-06-08T22:41:09.808Z,866230,emily.hallett@inrs.ca,249561841,"""marine""",1
+2025-06-08T22:42:00.037Z,866230,emily.hallett@inrs.ca,249561841,"""culture collection""",deleted
+2025-06-08T22:42:13.628Z,866230,emily.hallett@inrs.ca,249561841,note-13344939,1
+2025-06-08T22:42:15.855Z,866230,emily.hallett@inrs.ca,249561841,included,-1
+2025-06-08T22:43:38.542Z,866230,emily.hallett@inrs.ca,249561842,note-13345007,1
+2025-06-08T22:43:43.184Z,866230,emily.hallett@inrs.ca,249561842,"""marine""",1
+2025-06-08T22:43:44.681Z,866230,emily.hallett@inrs.ca,249561842,included,-1
+2025-06-08T22:45:46.878Z,866230,emily.hallett@inrs.ca,249561843,note-13345108,1
+2025-06-08T22:45:54.217Z,866230,emily.hallett@inrs.ca,249561843,"""novel isolates""",1
+2025-06-08T22:45:54.228Z,866230,emily.hallett@inrs.ca,249561843,"""culture collection""",1
+2025-06-08T22:45:54.246Z,866230,emily.hallett@inrs.ca,249561843,"""extreme environment""",1
+2025-06-08T22:45:57.186Z,866230,emily.hallett@inrs.ca,249561843,included,1
+2025-06-08T22:47:37.839Z,866230,emily.hallett@inrs.ca,249561844,"""long read sequencing""",1
+2025-06-08T22:47:37.853Z,866230,emily.hallett@inrs.ca,249561844,"""marine""",1
+2025-06-08T22:47:57.763Z,866230,emily.hallett@inrs.ca,249561844,note-13345217,1
+2025-06-08T22:48:00.643Z,866230,emily.hallett@inrs.ca,249561844,included,-1
+2025-06-08T22:48:08.831Z,866230,emily.hallett@inrs.ca,249561845,"""marine""",1
+2025-06-08T22:49:38.362Z,866230,emily.hallett@inrs.ca,249561845,note-13345298,1
+2025-06-08T22:49:41.087Z,866230,emily.hallett@inrs.ca,249561845,included,1
+2025-06-08T22:50:28.973Z,866230,emily.hallett@inrs.ca,249561846,"""culture collection""",1
+2025-06-08T22:50:28.984Z,866230,emily.hallett@inrs.ca,249561846,"""marine""",1
+2025-06-08T22:51:42.422Z,866230,emily.hallett@inrs.ca,249561846,note-13345389,1
+2025-06-08T22:51:44.407Z,866230,emily.hallett@inrs.ca,249561846,included,0
+2025-06-08T22:52:33.031Z,866230,emily.hallett@inrs.ca,249561848,"""marine""",1
+2025-06-08T22:52:33.050Z,866230,emily.hallett@inrs.ca,249561848,"""novel isolates""",1
+2025-06-08T22:52:56.470Z,866230,emily.hallett@inrs.ca,249561848,note-13345447,1
+2025-06-08T22:52:59.246Z,866230,emily.hallett@inrs.ca,249561848,included,1
+2025-06-08T22:55:08.079Z,866230,emily.hallett@inrs.ca,249561820,note-13345549,1
+2025-06-08T22:55:10.549Z,866230,emily.hallett@inrs.ca,249561820,included,-1
+2025-06-08T22:55:35.097Z,866230,emily.hallett@inrs.ca,249561828,"""marine""",1
+2025-06-08T22:55:35.107Z,866230,emily.hallett@inrs.ca,249561828,"""culture collection""",1
+2025-06-08T22:56:58.350Z,866230,emily.hallett@inrs.ca,249561828,note-13345625,1
+2025-06-08T22:57:00.837Z,866230,emily.hallett@inrs.ca,249561828,included,1
+2025-06-08T22:58:52.176Z,866230,emily.hallett@inrs.ca,249561829,note-13345710,1
+2025-06-08T22:58:56.960Z,866230,emily.hallett@inrs.ca,249561829,"""marine""",1
+2025-06-08T22:59:00.951Z,866230,emily.hallett@inrs.ca,249561829,included,0
+2025-06-08T23:00:57.625Z,866230,emily.hallett@inrs.ca,249561834,"""marine""",1
+2025-06-08T23:00:57.639Z,866230,emily.hallett@inrs.ca,249561834,"""novel isolates""",1
+2025-06-08T23:01:08.691Z,866230,emily.hallett@inrs.ca,249561834,included,1
+2025-06-08T23:02:06.415Z,866230,emily.hallett@inrs.ca,249561832,"""marine""",1
+2025-06-08T23:02:06.427Z,866230,emily.hallett@inrs.ca,249561832,"""novel isolates""",1
+2025-06-08T23:02:12.070Z,866230,emily.hallett@inrs.ca,249561832,included,1
+2025-06-08T23:03:03.354Z,866230,emily.hallett@inrs.ca,249561830,"""marine""",1
+2025-06-08T23:03:05.538Z,866230,emily.hallett@inrs.ca,249561830,included,-1
+2025-06-08T23:03:41.296Z,866230,emily.hallett@inrs.ca,249561831,"""marine""",1
+2025-06-08T23:03:43.745Z,866230,emily.hallett@inrs.ca,249561831,included,-1
+2025-06-08T23:04:11.597Z,866230,emily.hallett@inrs.ca,249561833,"""marine""",1
+2025-06-08T23:04:11.611Z,866230,emily.hallett@inrs.ca,249561833,"""long read sequencing""",1
+2025-06-08T23:04:36.117Z,866230,emily.hallett@inrs.ca,249561833,included,-1
+2025-06-08T23:05:04.801Z,866230,emily.hallett@inrs.ca,249561833,note-13345984,1
+2025-06-08T23:07:23.371Z,866230,emily.hallett@inrs.ca,249561835,note-13346091,1
+2025-06-08T23:07:26.507Z,866230,emily.hallett@inrs.ca,249561835,included,1
+2025-06-08T23:08:12.352Z,866230,emily.hallett@inrs.ca,249561836,"""marine""",1
+2025-06-08T23:08:23.410Z,866230,emily.hallett@inrs.ca,249561836,included,-1
+2025-07-08T18:14:48.102Z,857180,hwander@vt.edu,249563885,"""freshwater""",1
+2025-07-08T18:27:42.274Z,857180,hwander@vt.edu,249563885,included,-1
+2025-07-08T18:28:10.949Z,857180,hwander@vt.edu,249563886,"""freshwater""",1
+2025-07-08T18:29:27.673Z,857180,hwander@vt.edu,249563886,"""novel isolates""",1
+2025-07-08T18:30:22.195Z,857180,hwander@vt.edu,249563886,"""novel isolates""",deleted
+2025-07-09T14:48:44.434Z,857180,hwander@vt.edu,249563886,included,1
+2025-07-09T14:54:24.308Z,857180,hwander@vt.edu,249563886,"""culture collection""",1
+2025-07-09T14:56:15.111Z,857180,hwander@vt.edu,249563887,"""culture collection""",1
+2025-07-09T14:56:35.319Z,857180,hwander@vt.edu,249563887,"""marine""",1
+2025-07-09T14:57:05.771Z,857180,hwander@vt.edu,249563887,included,1
+2025-07-09T15:05:46.715Z,857180,hwander@vt.edu,249563888,included,-1
+2025-07-09T15:09:21.542Z,857180,hwander@vt.edu,249563889,"""culture collection""",1
+2025-07-09T15:09:21.558Z,857180,hwander@vt.edu,249563889,"""freshwater""",1
+2025-07-09T15:10:20.419Z,857180,hwander@vt.edu,249563889,included,1
+2025-07-09T15:11:39.127Z,857180,hwander@vt.edu,249563890,"""extreme environment""",1
+2025-07-09T15:11:39.144Z,857180,hwander@vt.edu,249563890,"""freshwater""",1
+2025-07-09T15:11:49.642Z,857180,hwander@vt.edu,249563890,"""novel isolates""",1
+2025-07-09T15:12:49.269Z,857180,hwander@vt.edu,249563890,included,1
+2025-07-09T15:16:42.596Z,857180,hwander@vt.edu,249563886,"""culture collection""",deleted
+2025-07-09T15:17:02.351Z,857180,hwander@vt.edu,249563887,"""culture collection""",deleted
+2025-07-09T15:18:03.585Z,857180,hwander@vt.edu,249563889,"""culture collection""",deleted
+2025-07-09T15:18:23.783Z,857180,hwander@vt.edu,249563891,"""freshwater""",1
+2025-07-09T15:21:07.113Z,857180,hwander@vt.edu,249563891,included,-1
+2025-07-09T15:22:01.722Z,857180,hwander@vt.edu,249563892,included,-1
+2025-07-09T15:24:48.742Z,857180,hwander@vt.edu,249563893,included,-1
+2025-07-09T15:26:34.936Z,857180,hwander@vt.edu,249563894,"""freshwater""",1
+2025-07-09T15:26:54.031Z,857180,hwander@vt.edu,249563894,included,1
+2025-07-09T15:29:13.726Z,857180,hwander@vt.edu,249563895,"""freshwater""",1
+2025-07-09T15:29:25.395Z,857180,hwander@vt.edu,249563895,included,0
+2025-07-09T15:30:01.870Z,857180,hwander@vt.edu,249563896,"""18S""",1
+2025-07-09T15:30:01.913Z,857180,hwander@vt.edu,249563896,"""freshwater""",1
+2025-07-09T15:30:11.028Z,857180,hwander@vt.edu,249563896,"""16S""",1
+2025-07-09T15:31:34.716Z,857180,hwander@vt.edu,249563896,"""culture collection""",1
+2025-07-09T15:31:36.472Z,857180,hwander@vt.edu,249563896,included,1
+2025-07-09T15:34:50.873Z,857180,hwander@vt.edu,249563897,included,-1
+2025-07-09T15:36:02.466Z,857180,hwander@vt.edu,249563898,included,-1
+2025-07-09T15:38:13.405Z,857180,hwander@vt.edu,249563899,included,-1
+2025-07-09T15:39:46.687Z,857180,hwander@vt.edu,249563900,included,-1
+2025-07-09T15:40:22.546Z,857180,hwander@vt.edu,249563901,included,-1
+2025-07-09T15:40:53.086Z,857180,hwander@vt.edu,249563902,included,-1
+2025-07-09T15:41:19.498Z,857180,hwander@vt.edu,249563903,"""novel isolates""",1
+2025-07-09T15:41:19.510Z,857180,hwander@vt.edu,249563903,"""freshwater""",1
+2025-07-09T15:41:55.131Z,857180,hwander@vt.edu,249563903,included,1
+2025-07-09T18:02:59.180Z,857180,hwander@vt.edu,249563904,included,-1
+2025-07-09T18:11:51.161Z,857180,hwander@vt.edu,249563905,included,-1
+2025-07-09T18:19:53.985Z,857180,hwander@vt.edu,249563906,"""marine""",1
+2025-07-09T18:20:57.578Z,857180,hwander@vt.edu,249563906,"""marine""",deleted
+2025-07-09T18:21:07.462Z,857180,hwander@vt.edu,249563906,included,0
+2025-07-09T18:21:44.746Z,857180,hwander@vt.edu,249563907,"""culture collection""",1
+2025-07-09T18:21:44.767Z,857180,hwander@vt.edu,249563907,"""marine""",1
+2025-07-09T18:24:51.520Z,857180,hwander@vt.edu,249563907,"""freshwater""",1
+2025-07-09T18:24:51.537Z,857180,hwander@vt.edu,249563907,"""marine""",deleted
+2025-07-09T18:25:32.243Z,857180,hwander@vt.edu,249563907,note-14185742,1
+2025-07-09T18:25:33.945Z,857180,hwander@vt.edu,249563907,included,0
+2025-07-09T18:31:43.234Z,857180,hwander@vt.edu,249563908,included,-1
+2025-07-09T18:35:41.662Z,857180,hwander@vt.edu,249563909,included,-1
+2025-07-09T18:36:22.428Z,857180,hwander@vt.edu,249563910,"""16S""",1
+2025-07-09T18:36:22.444Z,857180,hwander@vt.edu,249563910,"""novel isolates""",1
+2025-07-09T18:37:19.635Z,857180,hwander@vt.edu,249563910,"""freshwater""",1
+2025-07-09T18:37:31.453Z,857180,hwander@vt.edu,249563910,included,1
+2025-07-09T18:41:40.884Z,857180,hwander@vt.edu,249563911,included,-1
+2025-07-09T18:42:18.912Z,857180,hwander@vt.edu,249563912,included,-1
+2025-07-09T18:43:26.644Z,857180,hwander@vt.edu,249563913,included,-1
+2025-07-09T18:43:36.906Z,857180,hwander@vt.edu,249563914,"""18S""",1
+2025-07-09T18:43:36.918Z,857180,hwander@vt.edu,249563914,"""marine""",1
+2025-07-09T18:45:11.144Z,857180,hwander@vt.edu,249563914,included,1
+2025-07-09T18:45:29.752Z,857180,hwander@vt.edu,249563915,"""freshwater""",1
+2025-07-09T18:45:29.766Z,857180,hwander@vt.edu,249563915,"""novel isolates""",1
+2025-07-09T18:46:58.627Z,857180,hwander@vt.edu,249563915,included,1
+2025-07-09T18:47:57.447Z,857180,hwander@vt.edu,249563916,included,-1
+2025-07-09T18:50:50.082Z,857180,hwander@vt.edu,249563917,"""16S""",1
+2025-07-09T18:50:50.096Z,857180,hwander@vt.edu,249563917,"""extreme environment""",1
+2025-07-09T18:50:50.109Z,857180,hwander@vt.edu,249563917,"""freshwater""",1
+2025-07-09T18:51:51.994Z,857180,hwander@vt.edu,249563917,"""marine""",1
+2025-07-09T18:51:52.009Z,857180,hwander@vt.edu,249563917,"""freshwater""",deleted
+2025-07-09T18:52:16.638Z,857180,hwander@vt.edu,249563917,included,1
+2025-07-09T18:53:02.501Z,857180,hwander@vt.edu,249563918,included,-1
+2025-07-09T18:55:55.652Z,857180,hwander@vt.edu,249563919,included,-1
+2025-07-09T18:57:23.161Z,857180,hwander@vt.edu,249563920,included,-1
+2025-07-09T18:58:58.796Z,857180,hwander@vt.edu,249563921,"""culture collection""",1
+2025-07-09T19:00:14.991Z,857180,hwander@vt.edu,249563921,included,1
+2025-07-09T20:18:14.475Z,857180,hwander@vt.edu,249563922,included,-1
+2025-07-09T20:21:42.041Z,857180,hwander@vt.edu,249563923,included,-1
+2025-07-09T20:22:44.129Z,857180,hwander@vt.edu,249563924,included,-1
+2025-07-09T20:25:38.052Z,857180,hwander@vt.edu,249563925,included,-1
+2025-07-09T21:17:45.068Z,857180,hwander@vt.edu,249563914,included,0
+2025-07-09T21:21:57.358Z,857180,hwander@vt.edu,249563894,"""novel isolates""",1
+2025-07-09T21:22:50.237Z,857180,hwander@vt.edu,249563889,included,-1
+2025-07-09T21:23:20.727Z,857180,hwander@vt.edu,249563887,included,0
+2025-07-09T21:23:51.127Z,857180,hwander@vt.edu,249563889,included,0
+2025-07-09T21:38:12.179Z,857180,hwander@vt.edu,249563926,included,-1
+2025-07-09T21:39:46.963Z,857180,hwander@vt.edu,249563927,"""novel isolates""",1
+2025-07-09T21:40:13.291Z,857180,hwander@vt.edu,249563927,included,1
+2025-08-26T20:41:12.207Z,866230,emily.hallett@inrs.ca,249561858,"""lab""",1
+2025-08-26T20:41:38.978Z,866230,emily.hallett@inrs.ca,249561858,"""bacteria""",1
+2025-08-26T20:41:45.254Z,866230,emily.hallett@inrs.ca,249561858,"""archaea""",1
+2025-08-26T20:41:59.488Z,866230,emily.hallett@inrs.ca,249561858,"""microbial eukaryote""",1
+2025-08-26T20:42:11.756Z,866230,emily.hallett@inrs.ca,249561858,"""archaea""",deleted
+2025-08-26T20:42:11.770Z,866230,emily.hallett@inrs.ca,249561858,"""bacteria""",deleted
+2025-08-26T20:42:15.148Z,866230,emily.hallett@inrs.ca,249561858,included,-1
+2025-08-26T20:42:37.621Z,866230,emily.hallett@inrs.ca,249561808,"""bacteria""",1
+2025-08-26T20:43:03.178Z,866230,emily.hallett@inrs.ca,249561809,"""microbial eukaryote""",1
+2025-08-26T20:44:01.205Z,866230,emily.hallett@inrs.ca,249561810,"""microbial eukaryote""",1
+2025-08-26T20:44:16.537Z,866230,emily.hallett@inrs.ca,249561811,"""microbial eukaryote""",1
+2025-08-26T20:44:26.193Z,866230,emily.hallett@inrs.ca,249561812,"""bacteria""",1
+2025-08-26T20:44:55.307Z,866230,emily.hallett@inrs.ca,249561813,"""microbial eukaryote""",1
+2025-08-26T20:45:03.774Z,866230,emily.hallett@inrs.ca,249561814,"""microbial eukaryote""",1
+2025-08-26T20:46:10.469Z,866230,emily.hallett@inrs.ca,249561824,"""bacteria""",1
+2025-08-26T20:46:10.484Z,866230,emily.hallett@inrs.ca,249561824,"""microbial eukaryote""",1
+2025-08-26T20:46:25.739Z,866230,emily.hallett@inrs.ca,249561825,"""bacteria""",1
+2025-08-26T20:46:38.719Z,866230,emily.hallett@inrs.ca,249561826,"""bacteria""",1
+2025-08-26T20:46:38.730Z,866230,emily.hallett@inrs.ca,249561826,"""microbial eukaryote""",1
+2025-08-26T20:47:13.161Z,866230,emily.hallett@inrs.ca,249561827,"""microbial eukaryote""",1
+2025-08-26T20:47:38.258Z,866230,emily.hallett@inrs.ca,249561828,"""microbial eukaryote""",1
+2025-08-26T20:47:54.933Z,866230,emily.hallett@inrs.ca,249561832,"""bacteria""",1
+2025-08-26T20:47:54.945Z,866230,emily.hallett@inrs.ca,249561832,"""microbial eukaryote""",1
+2025-08-26T20:48:14.632Z,866230,emily.hallett@inrs.ca,249561834,"""microbial eukaryote""",1
+2025-08-26T20:48:29.749Z,866230,emily.hallett@inrs.ca,249561835,"""bacteria""",1
+2025-08-26T20:48:29.823Z,866230,emily.hallett@inrs.ca,249561835,"""microbial eukaryote""",1
+2025-08-26T20:48:50.495Z,866230,emily.hallett@inrs.ca,249561835,"""lab""",1
+2025-08-26T20:49:06.404Z,866230,emily.hallett@inrs.ca,249561838,"""microbial eukaryote""",1
+2025-08-26T20:49:18.590Z,866230,emily.hallett@inrs.ca,249561843,"""bacteria""",1
+2025-08-26T20:49:18.601Z,866230,emily.hallett@inrs.ca,249561843,"""microbial eukaryote""",1
+2025-08-26T20:49:29.821Z,866230,emily.hallett@inrs.ca,249561843,"""marine""",1
+2025-08-26T20:49:43.024Z,866230,emily.hallett@inrs.ca,249561845,"""bacteria""",1
+2025-08-26T20:49:43.037Z,866230,emily.hallett@inrs.ca,249561845,"""microbial eukaryote""",1
+2025-08-26T20:50:13.723Z,866230,emily.hallett@inrs.ca,249561859,"""bacteria""",1
+2025-08-26T20:50:13.736Z,866230,emily.hallett@inrs.ca,249561859,"""microbial eukaryote""",1
+2025-08-26T20:50:13.746Z,866230,emily.hallett@inrs.ca,249561859,"""lab""",1
+2025-08-26T20:50:15.527Z,866230,emily.hallett@inrs.ca,249561859,included,-1
+2025-08-26T20:51:16.558Z,866230,emily.hallett@inrs.ca,249561860,"""marine""",1
+2025-08-26T20:51:16.619Z,866230,emily.hallett@inrs.ca,249561860,"""microbial eukaryote""",1
+2025-08-26T20:51:16.629Z,866230,emily.hallett@inrs.ca,249561860,"""bacteria""",1
+2025-08-26T20:51:16.661Z,866230,emily.hallett@inrs.ca,249561860,"""lab""",1
+2025-08-26T20:54:15.598Z,866230,emily.hallett@inrs.ca,249561860,"""culture collection""",1
+2025-08-26T20:54:18.620Z,866230,emily.hallett@inrs.ca,249561860,included,1
+2025-08-26T20:54:52.966Z,866230,emily.hallett@inrs.ca,249561861,"""microbial eukaryote""",1
+2025-08-26T20:54:52.978Z,866230,emily.hallett@inrs.ca,249561861,"""lab""",1
+2025-08-26T20:54:56.040Z,866230,emily.hallett@inrs.ca,249561861,included,-1
+2025-08-26T20:57:15.591Z,866230,emily.hallett@inrs.ca,249561862,"""lab""",1
+2025-08-26T20:57:15.607Z,866230,emily.hallett@inrs.ca,249561862,"""marine""",1
+2025-08-26T20:57:15.618Z,866230,emily.hallett@inrs.ca,249561862,"""microbial eukaryote""",1
+2025-08-26T20:57:20.333Z,866230,emily.hallett@inrs.ca,249561862,included,1
+2025-08-26T20:58:03.511Z,866230,emily.hallett@inrs.ca,249561863,"""microbial eukaryote""",1
+2025-08-26T20:58:03.523Z,866230,emily.hallett@inrs.ca,249561863,"""marine""",1
+2025-08-26T20:59:49.587Z,866230,emily.hallett@inrs.ca,249561863,"""lab""",1
+2025-08-26T20:59:51.737Z,866230,emily.hallett@inrs.ca,249561863,included,1
+2025-08-26T21:01:43.593Z,866230,emily.hallett@inrs.ca,249561864,"""lab""",1
+2025-08-26T21:01:43.604Z,866230,emily.hallett@inrs.ca,249561864,"""marine""",1
+2025-08-26T21:01:43.614Z,866230,emily.hallett@inrs.ca,249561864,"""bacteria""",1
+2025-08-26T21:02:12.805Z,866230,emily.hallett@inrs.ca,249561864,included,0
+2025-08-26T21:04:37.634Z,866230,emily.hallett@inrs.ca,249561865,"""18S""",1
+2025-08-26T21:04:37.644Z,866230,emily.hallett@inrs.ca,249561865,"""lab""",1
+2025-08-26T21:04:37.657Z,866230,emily.hallett@inrs.ca,249561865,"""marine""",1
+2025-08-26T21:04:37.666Z,866230,emily.hallett@inrs.ca,249561865,"""microbial eukaryote""",1
+2025-08-26T21:04:37.677Z,866230,emily.hallett@inrs.ca,249561865,"""novel isolates""",1
+2025-08-26T21:04:40.105Z,866230,emily.hallett@inrs.ca,249561865,included,1
+2025-08-28T22:02:41.035Z,866230,emily.hallett@inrs.ca,249561866,"""bacteria""",1
+2025-08-28T22:02:41.073Z,866230,emily.hallett@inrs.ca,249561866,"""lab""",1
+2025-08-28T22:02:41.082Z,866230,emily.hallett@inrs.ca,249561866,"""marine""",1
+2025-08-28T22:02:41.093Z,866230,emily.hallett@inrs.ca,249561866,"""microbial eukaryote""",1
+2025-08-28T22:02:42.247Z,866230,emily.hallett@inrs.ca,249561866,included,1
+2025-08-28T22:03:20.851Z,866230,emily.hallett@inrs.ca,249561867,note-15293434,1
+2025-08-28T22:03:57.444Z,866230,emily.hallett@inrs.ca,249561867,"""18S""",1
+2025-08-28T22:03:57.459Z,866230,emily.hallett@inrs.ca,249561867,"""microbial eukaryote""",1
+2025-08-28T22:03:57.468Z,866230,emily.hallett@inrs.ca,249561867,"""marine""",1
+2025-08-28T22:03:57.478Z,866230,emily.hallett@inrs.ca,249561867,"""novel isolates""",1
+2025-08-28T22:04:00.437Z,866230,emily.hallett@inrs.ca,249561867,included,1
+2025-08-29T19:31:57.842Z,866230,emily.hallett@inrs.ca,249561868,"""marine""",1
+2025-08-29T19:31:57.882Z,866230,emily.hallett@inrs.ca,249561868,"""microbial eukaryote""",1
+2025-08-29T19:32:01.304Z,866230,emily.hallett@inrs.ca,249561868,included,-1
+2025-08-29T19:33:53.116Z,866230,emily.hallett@inrs.ca,249561869,"""bacteria""",1
+2025-08-29T19:33:53.129Z,866230,emily.hallett@inrs.ca,249561869,"""lab""",1
+2025-08-29T19:33:53.139Z,866230,emily.hallett@inrs.ca,249561869,"""marine""",1
+2025-08-29T19:33:53.148Z,866230,emily.hallett@inrs.ca,249561869,"""microbial eukaryote""",1
+2025-08-29T19:33:56.092Z,866230,emily.hallett@inrs.ca,249561869,included,1
+2025-08-29T19:34:59.095Z,866230,emily.hallett@inrs.ca,249561870,"""culture collection""",1
+2025-08-29T19:34:59.107Z,866230,emily.hallett@inrs.ca,249561870,"""lab""",1
+2025-08-29T19:34:59.114Z,866230,emily.hallett@inrs.ca,249561870,"""marine""",1
+2025-08-29T19:34:59.122Z,866230,emily.hallett@inrs.ca,249561870,"""microbial eukaryote""",1
+2025-08-29T19:35:01.008Z,866230,emily.hallett@inrs.ca,249561870,included,1
+2025-08-29T19:35:50.733Z,866230,emily.hallett@inrs.ca,249561871,"""lab""",1
+2025-08-29T19:35:50.745Z,866230,emily.hallett@inrs.ca,249561871,"""marine""",1
+2025-08-29T19:35:50.755Z,866230,emily.hallett@inrs.ca,249561871,"""microbial eukaryote""",1
+2025-08-29T19:35:52.427Z,866230,emily.hallett@inrs.ca,249561871,included,1
+2025-08-29T19:36:45.352Z,866230,emily.hallett@inrs.ca,249561872,"""lab""",1
+2025-08-29T19:36:45.365Z,866230,emily.hallett@inrs.ca,249561872,"""marine""",1
+2025-08-29T19:36:45.374Z,866230,emily.hallett@inrs.ca,249561872,"""bacteria""",1
+2025-08-29T19:36:45.382Z,866230,emily.hallett@inrs.ca,249561872,"""microbial eukaryote""",1
+2025-08-29T19:36:45.390Z,866230,emily.hallett@inrs.ca,249561872,"""culture collection""",1
+2025-08-29T19:36:48.740Z,866230,emily.hallett@inrs.ca,249561872,included,1
+2025-08-29T21:10:13.039Z,866230,emily.hallett@inrs.ca,249561873,"""marine""",1
+2025-08-29T21:10:13.069Z,866230,emily.hallett@inrs.ca,249561873,"""microbial eukaryote""",1
+2025-08-29T21:10:13.081Z,866230,emily.hallett@inrs.ca,249561873,"""lab""",1
+2025-08-29T21:10:16.722Z,866230,emily.hallett@inrs.ca,249561873,included,1
+2025-08-29T21:11:20.519Z,866230,emily.hallett@inrs.ca,249561874,"""lab""",1
+2025-08-29T21:11:20.530Z,866230,emily.hallett@inrs.ca,249561874,"""marine""",1
+2025-08-29T21:11:20.539Z,866230,emily.hallett@inrs.ca,249561874,"""microbial eukaryote""",1
+2025-08-29T21:11:20.547Z,866230,emily.hallett@inrs.ca,249561874,"""bacteria""",1
+2025-08-29T21:11:25.545Z,866230,emily.hallett@inrs.ca,249561874,included,1
+2025-08-29T21:12:29.393Z,866230,emily.hallett@inrs.ca,249561875,"""bacteria""",1
+2025-08-29T21:12:29.404Z,866230,emily.hallett@inrs.ca,249561875,"""marine""",1
+2025-08-29T21:12:31.694Z,866230,emily.hallett@inrs.ca,249561875,included,-1
+2025-08-29T21:13:32.413Z,866230,emily.hallett@inrs.ca,249561876,"""lab""",1
+2025-08-29T21:13:32.424Z,866230,emily.hallett@inrs.ca,249561876,"""marine""",1
+2025-08-29T21:13:32.432Z,866230,emily.hallett@inrs.ca,249561876,"""microbial eukaryote""",1
+2025-08-29T21:13:32.448Z,866230,emily.hallett@inrs.ca,249561876,"""extreme environment""",1
+2025-08-29T21:13:34.354Z,866230,emily.hallett@inrs.ca,249561876,included,1
+2025-08-29T21:14:14.170Z,866230,emily.hallett@inrs.ca,249561877,"""culture collection""",1
+2025-08-29T21:14:14.181Z,866230,emily.hallett@inrs.ca,249561877,"""lab""",1
+2025-08-29T21:14:14.190Z,866230,emily.hallett@inrs.ca,249561877,"""marine""",1
+2025-08-29T21:14:14.199Z,866230,emily.hallett@inrs.ca,249561877,"""microbial eukaryote""",1
+2025-08-29T21:14:17.852Z,866230,emily.hallett@inrs.ca,249561877,included,1
+2025-08-29T21:15:07.312Z,866230,emily.hallett@inrs.ca,249561878,"""culture collection""",1
+2025-08-29T21:15:07.322Z,866230,emily.hallett@inrs.ca,249561878,"""lab""",1
+2025-08-29T21:15:07.332Z,866230,emily.hallett@inrs.ca,249561878,"""marine""",1
+2025-08-29T21:15:07.342Z,866230,emily.hallett@inrs.ca,249561878,"""microbial eukaryote""",1
+2025-08-29T21:15:15.636Z,866230,emily.hallett@inrs.ca,249561878,included,1
+2025-08-29T21:16:03.947Z,866230,emily.hallett@inrs.ca,249561879,"""novel isolates""",1
+2025-08-29T21:16:03.959Z,866230,emily.hallett@inrs.ca,249561879,"""lab""",1
+2025-08-29T21:16:03.967Z,866230,emily.hallett@inrs.ca,249561879,"""marine""",1
+2025-08-29T21:16:03.975Z,866230,emily.hallett@inrs.ca,249561879,"""microbial eukaryote""",1
+2025-08-29T21:16:12.277Z,866230,emily.hallett@inrs.ca,249561879,included,1
+2025-08-29T21:17:14.861Z,866230,emily.hallett@inrs.ca,249561880,"""lab""",1
+2025-08-29T21:17:14.874Z,866230,emily.hallett@inrs.ca,249561880,"""marine""",1
+2025-08-29T21:17:14.883Z,866230,emily.hallett@inrs.ca,249561880,"""microbial eukaryote""",1
+2025-08-29T21:17:48.412Z,866230,emily.hallett@inrs.ca,249561880,included,1
+2025-08-29T21:24:04.421Z,866230,emily.hallett@inrs.ca,249561881,"""lab""",1
+2025-08-29T21:24:04.433Z,866230,emily.hallett@inrs.ca,249561881,"""bacteria""",1
+2025-08-29T21:24:04.442Z,866230,emily.hallett@inrs.ca,249561881,"""marine""",1
+2025-08-29T21:24:07.704Z,866230,emily.hallett@inrs.ca,249561881,included,1
+2025-08-29T21:25:07.706Z,866230,emily.hallett@inrs.ca,249561882,"""18S""",1
+2025-08-29T21:25:07.714Z,866230,emily.hallett@inrs.ca,249561882,"""novel isolates""",1
+2025-08-29T21:25:07.722Z,866230,emily.hallett@inrs.ca,249561882,"""lab""",1
+2025-08-29T21:25:07.730Z,866230,emily.hallett@inrs.ca,249561882,"""marine""",1
+2025-08-29T21:25:07.738Z,866230,emily.hallett@inrs.ca,249561882,"""microbial eukaryote""",1
+2025-08-29T21:25:17.536Z,866230,emily.hallett@inrs.ca,249561882,included,1
+2025-08-29T21:26:11.551Z,866230,emily.hallett@inrs.ca,249561883,"""16S""",1
+2025-08-29T21:26:11.560Z,866230,emily.hallett@inrs.ca,249561883,"""lab""",1
+2025-08-29T21:26:11.569Z,866230,emily.hallett@inrs.ca,249561883,"""marine""",1
+2025-08-29T21:26:11.577Z,866230,emily.hallett@inrs.ca,249561883,"""bacteria""",1
+2025-08-29T21:26:11.584Z,866230,emily.hallett@inrs.ca,249561883,"""novel isolates""",1
+2025-08-29T21:26:16.848Z,866230,emily.hallett@inrs.ca,249561883,included,1
+2025-08-29T21:27:47.250Z,866230,emily.hallett@inrs.ca,249561884,"""lab""",1
+2025-08-29T21:27:47.261Z,866230,emily.hallett@inrs.ca,249561884,"""marine""",1
+2025-08-29T21:27:47.270Z,866230,emily.hallett@inrs.ca,249561884,"""novel isolates""",1
+2025-08-29T21:27:47.279Z,866230,emily.hallett@inrs.ca,249561884,"""bacteria""",1
+2025-08-29T21:27:51.455Z,866230,emily.hallett@inrs.ca,249561884,included,1
+2025-08-29T21:29:12.656Z,866230,emily.hallett@inrs.ca,249561885,"""lab""",1
+2025-08-29T21:29:12.665Z,866230,emily.hallett@inrs.ca,249561885,"""marine""",1
+2025-08-29T21:29:12.674Z,866230,emily.hallett@inrs.ca,249561885,"""bacteria""",1
+2025-08-29T21:29:12.682Z,866230,emily.hallett@inrs.ca,249561885,"""microbial eukaryote""",1
+2025-08-29T21:29:15.302Z,866230,emily.hallett@inrs.ca,249561885,included,1
+2025-08-30T01:19:27.815Z,866230,emily.hallett@inrs.ca,249561886,"""lab""",1
+2025-08-30T01:19:27.847Z,866230,emily.hallett@inrs.ca,249561886,"""marine""",1
+2025-08-30T01:19:27.858Z,866230,emily.hallett@inrs.ca,249561886,"""microbial eukaryote""",1
+2025-08-30T01:19:29.215Z,866230,emily.hallett@inrs.ca,249561886,included,1
+2025-08-30T01:20:29.808Z,866230,emily.hallett@inrs.ca,249561887,"""16S""",1
+2025-08-30T01:20:29.822Z,866230,emily.hallett@inrs.ca,249561887,"""novel isolates""",1
+2025-08-30T01:20:29.830Z,866230,emily.hallett@inrs.ca,249561887,"""lab""",1
+2025-08-30T01:20:29.838Z,866230,emily.hallett@inrs.ca,249561887,"""marine""",1
+2025-08-30T01:20:29.847Z,866230,emily.hallett@inrs.ca,249561887,"""bacteria""",1
+2025-08-30T01:20:29.856Z,866230,emily.hallett@inrs.ca,249561887,"""microbial eukaryote""",1
+2025-08-30T01:20:31.277Z,866230,emily.hallett@inrs.ca,249561887,included,1
+2025-08-30T01:21:20.821Z,866230,emily.hallett@inrs.ca,249561888,"""novel isolates""",1
+2025-08-30T01:21:20.835Z,866230,emily.hallett@inrs.ca,249561888,"""16S""",1
+2025-08-30T01:21:20.844Z,866230,emily.hallett@inrs.ca,249561888,"""lab""",1
+2025-08-30T01:21:20.854Z,866230,emily.hallett@inrs.ca,249561888,"""marine""",1
+2025-08-30T01:21:20.866Z,866230,emily.hallett@inrs.ca,249561888,"""extreme environment""",1
+2025-08-30T01:21:20.875Z,866230,emily.hallett@inrs.ca,249561888,"""bacteria""",1
+2025-08-30T01:21:20.884Z,866230,emily.hallett@inrs.ca,249561888,"""microbial eukaryote""",1
+2025-08-30T01:21:22.211Z,866230,emily.hallett@inrs.ca,249561888,included,1
+2025-08-30T01:22:07.243Z,866230,emily.hallett@inrs.ca,249561889,"""lab""",1
+2025-08-30T01:22:07.256Z,866230,emily.hallett@inrs.ca,249561889,"""microbial eukaryote""",1
+2025-08-30T01:22:07.264Z,866230,emily.hallett@inrs.ca,249561889,"""marine""",1
+2025-08-30T01:22:08.627Z,866230,emily.hallett@inrs.ca,249561889,included,1
+2025-08-30T01:22:49.593Z,866230,emily.hallett@inrs.ca,249561890,"""lab""",1
+2025-08-30T01:22:49.603Z,866230,emily.hallett@inrs.ca,249561890,"""marine""",1
+2025-08-30T01:22:49.611Z,866230,emily.hallett@inrs.ca,249561890,"""microbial eukaryote""",1
+2025-08-30T01:22:50.919Z,866230,emily.hallett@inrs.ca,249561890,included,1
+2025-08-30T01:23:48.675Z,866230,emily.hallett@inrs.ca,249561907,"""lab""",1
+2025-08-30T01:23:48.686Z,866230,emily.hallett@inrs.ca,249561907,"""marine""",1
+2025-08-30T01:23:48.696Z,866230,emily.hallett@inrs.ca,249561907,"""microbial eukaryote""",1
+2025-08-30T01:23:50.013Z,866230,emily.hallett@inrs.ca,249561907,included,1
+2025-08-30T01:24:36.043Z,866230,emily.hallett@inrs.ca,249561906,"""lab""",1
+2025-08-30T01:24:36.059Z,866230,emily.hallett@inrs.ca,249561906,"""marine""",1
+2025-08-30T01:24:36.070Z,866230,emily.hallett@inrs.ca,249561906,"""microbial eukaryote""",1
+2025-08-30T01:24:41.362Z,866230,emily.hallett@inrs.ca,249561906,included,1
+2025-08-30T01:27:40.519Z,866230,emily.hallett@inrs.ca,249561891,"""marine""",1
+2025-08-30T01:27:40.531Z,866230,emily.hallett@inrs.ca,249561891,"""microbial eukaryote""",1
+2025-08-30T01:27:40.539Z,866230,emily.hallett@inrs.ca,249561891,"""culture collection""",1
+2025-08-30T01:27:41.643Z,866230,emily.hallett@inrs.ca,249561891,included,1
+2025-08-30T01:28:21.169Z,866230,emily.hallett@inrs.ca,249561892,"""lab""",1
+2025-08-30T01:28:21.181Z,866230,emily.hallett@inrs.ca,249561892,"""marine""",1
+2025-08-30T01:28:21.189Z,866230,emily.hallett@inrs.ca,249561892,"""microbial eukaryote""",1
+2025-08-30T01:28:22.599Z,866230,emily.hallett@inrs.ca,249561892,included,1
+2025-09-09T22:00:59.462Z,866230,emily.hallett@inrs.ca,249561893,"""lab""",1
+2025-09-09T22:00:59.498Z,866230,emily.hallett@inrs.ca,249561893,"""marine""",1
+2025-09-09T22:00:59.505Z,866230,emily.hallett@inrs.ca,249561893,"""microbial eukaryote""",1
+2025-09-09T22:00:59.513Z,866230,emily.hallett@inrs.ca,249561893,"""bacteria""",1
+2025-09-09T22:00:59.519Z,866230,emily.hallett@inrs.ca,249561893,"""16S""",1
+2025-09-09T22:00:59.526Z,866230,emily.hallett@inrs.ca,249561893,"""novel isolates""",1
+2025-09-09T22:01:01.254Z,866230,emily.hallett@inrs.ca,249561893,included,1
+2025-09-09T22:02:09.081Z,866230,emily.hallett@inrs.ca,249561894,"""novel isolates""",1
+2025-09-09T22:02:09.094Z,866230,emily.hallett@inrs.ca,249561894,"""lab""",1
+2025-09-09T22:02:09.101Z,866230,emily.hallett@inrs.ca,249561894,"""marine""",1
+2025-09-09T22:02:09.108Z,866230,emily.hallett@inrs.ca,249561894,"""microbial eukaryote""",1
+2025-09-09T22:02:09.117Z,866230,emily.hallett@inrs.ca,249561894,"""culture collection""",1
+2025-09-09T22:02:09.123Z,866230,emily.hallett@inrs.ca,249561894,"""18S""",1
+2025-09-09T22:02:32.656Z,866230,emily.hallett@inrs.ca,249561894,included,1
+2025-09-09T22:03:30.500Z,866230,emily.hallett@inrs.ca,249561895,"""lab""",1
+2025-09-09T22:03:30.512Z,866230,emily.hallett@inrs.ca,249561895,"""novel isolates""",1
+2025-09-09T22:03:30.520Z,866230,emily.hallett@inrs.ca,249561895,"""marine""",1
+2025-09-09T22:03:30.528Z,866230,emily.hallett@inrs.ca,249561895,"""bacteria""",1
+2025-09-09T22:03:30.534Z,866230,emily.hallett@inrs.ca,249561895,"""microbial eukaryote""",1
+2025-09-09T22:03:30.541Z,866230,emily.hallett@inrs.ca,249561895,"""extreme environment""",1
+2025-09-09T22:03:32.061Z,866230,emily.hallett@inrs.ca,249561895,included,1
+2025-09-09T22:04:34.242Z,866230,emily.hallett@inrs.ca,249561896,"""novel isolates""",1
+2025-09-09T22:04:34.253Z,866230,emily.hallett@inrs.ca,249561896,"""lab""",1
+2025-09-09T22:04:34.260Z,866230,emily.hallett@inrs.ca,249561896,"""marine""",1
+2025-09-09T22:04:34.269Z,866230,emily.hallett@inrs.ca,249561896,"""bacteria""",1
+2025-09-09T22:04:34.276Z,866230,emily.hallett@inrs.ca,249561896,"""long read sequencing""",1
+2025-09-09T22:04:35.744Z,866230,emily.hallett@inrs.ca,249561896,included,1
+2025-09-09T22:07:38.817Z,866230,emily.hallett@inrs.ca,249561897,"""lab""",1
+2025-09-09T22:07:38.826Z,866230,emily.hallett@inrs.ca,249561897,"""marine""",1
+2025-09-09T22:07:38.833Z,866230,emily.hallett@inrs.ca,249561897,"""microbial eukaryote""",1
+2025-09-09T22:07:38.843Z,866230,emily.hallett@inrs.ca,249561897,"""extreme environment""",1
+2025-09-09T22:07:41.842Z,866230,emily.hallett@inrs.ca,249561897,included,1
+2025-09-09T22:08:31.527Z,866230,emily.hallett@inrs.ca,249561898,"""lab""",1
+2025-09-09T22:08:31.536Z,866230,emily.hallett@inrs.ca,249561898,"""novel isolates""",1
+2025-09-09T22:08:31.542Z,866230,emily.hallett@inrs.ca,249561898,"""marine""",1
+2025-09-09T22:08:31.552Z,866230,emily.hallett@inrs.ca,249561898,"""bacteria""",1
+2025-09-09T22:08:31.560Z,866230,emily.hallett@inrs.ca,249561898,"""16S""",1
+2025-09-09T22:08:34.924Z,866230,emily.hallett@inrs.ca,249561898,included,1
+2025-09-09T22:09:52.052Z,866230,emily.hallett@inrs.ca,249561899,"""lab""",1
+2025-09-09T22:09:52.060Z,866230,emily.hallett@inrs.ca,249561899,"""marine""",1
+2025-09-09T22:09:52.066Z,866230,emily.hallett@inrs.ca,249561899,"""bacteria""",1
+2025-09-09T22:09:54.839Z,866230,emily.hallett@inrs.ca,249561899,included,0
+2025-09-09T22:10:35.188Z,866230,emily.hallett@inrs.ca,249561900,"""lab""",1
+2025-09-09T22:10:35.198Z,866230,emily.hallett@inrs.ca,249561900,"""marine""",1
+2025-09-09T22:10:35.205Z,866230,emily.hallett@inrs.ca,249561900,"""microbial eukaryote""",1
+2025-09-09T22:10:35.226Z,866230,emily.hallett@inrs.ca,249561900,"""novel isolates""",1
+2025-09-09T22:10:37.770Z,866230,emily.hallett@inrs.ca,249561900,included,1
+2025-09-09T22:13:09.953Z,866230,emily.hallett@inrs.ca,249561901,"""lab""",1
+2025-09-09T22:13:09.964Z,866230,emily.hallett@inrs.ca,249561901,"""marine""",1
+2025-09-09T22:13:16.351Z,866230,emily.hallett@inrs.ca,249561901,included,0
+2025-09-09T22:14:15.533Z,866230,emily.hallett@inrs.ca,249561902,"""lab""",1
+2025-09-09T22:14:15.543Z,866230,emily.hallett@inrs.ca,249561902,"""marine""",1
+2025-09-09T22:14:15.552Z,866230,emily.hallett@inrs.ca,249561902,"""microbial eukaryote""",1
+2025-09-09T22:14:20.564Z,866230,emily.hallett@inrs.ca,249561902,included,1
+2025-09-09T22:15:12.602Z,866230,emily.hallett@inrs.ca,249561903,"""lab""",1
+2025-09-09T22:15:12.614Z,866230,emily.hallett@inrs.ca,249561903,"""marine""",1
+2025-09-09T22:15:12.629Z,866230,emily.hallett@inrs.ca,249561903,"""microbial eukaryote""",1
+2025-09-09T22:15:15.551Z,866230,emily.hallett@inrs.ca,249561903,included,1
+2025-09-09T22:16:24.134Z,866230,emily.hallett@inrs.ca,249561904,"""lab""",1
+2025-09-09T22:16:24.143Z,866230,emily.hallett@inrs.ca,249561904,"""microbial eukaryote""",1
+2025-09-09T22:16:27.333Z,866230,emily.hallett@inrs.ca,249561904,included,-1
+2025-09-09T22:16:46.247Z,866230,emily.hallett@inrs.ca,249561905,"""marine""",1
+2025-09-09T22:16:46.255Z,866230,emily.hallett@inrs.ca,249561905,"""bacteria""",1
+2025-09-09T22:18:08.250Z,866230,emily.hallett@inrs.ca,249561905,"""lab""",1
+2025-09-09T22:18:11.416Z,866230,emily.hallett@inrs.ca,249561905,included,1
+2025-09-09T22:18:41.837Z,866230,emily.hallett@inrs.ca,249561908,"""marine""",1
+2025-09-09T22:18:41.850Z,866230,emily.hallett@inrs.ca,249561908,"""microbial eukaryote""",1
+2025-09-09T22:19:24.407Z,866230,emily.hallett@inrs.ca,249561908,"""lab""",1
+2025-09-09T22:19:24.415Z,866230,emily.hallett@inrs.ca,249561908,"""culture collection""",1
+2025-09-09T22:19:47.572Z,866230,emily.hallett@inrs.ca,249561908,note-15488872,1
+2025-09-09T22:19:51.373Z,866230,emily.hallett@inrs.ca,249561908,included,1
+2025-09-09T22:20:54.026Z,866230,emily.hallett@inrs.ca,249561909,included,-1
+2025-09-09T22:21:51.429Z,866230,emily.hallett@inrs.ca,249561910,"""lab""",1
+2025-09-09T22:21:51.438Z,866230,emily.hallett@inrs.ca,249561910,"""marine""",1
+2025-09-09T22:21:51.445Z,866230,emily.hallett@inrs.ca,249561910,"""microbial eukaryote""",1
+2025-09-09T22:21:54.339Z,866230,emily.hallett@inrs.ca,249561910,included,1
+2025-09-09T22:24:06.063Z,866230,emily.hallett@inrs.ca,249561932,"""lab""",1
+2025-09-09T22:24:06.073Z,866230,emily.hallett@inrs.ca,249561932,"""marine""",1
+2025-09-09T22:24:06.081Z,866230,emily.hallett@inrs.ca,249561932,"""bacteria""",1
+2025-09-09T22:24:06.089Z,866230,emily.hallett@inrs.ca,249561932,"""microbial eukaryote""",1
+2025-09-09T22:24:06.097Z,866230,emily.hallett@inrs.ca,249561932,"""16S""",1
+2025-09-09T22:24:11.564Z,866230,emily.hallett@inrs.ca,249561932,included,1
+2025-09-09T22:24:30.199Z,866230,emily.hallett@inrs.ca,249561927,included,-1
+2025-09-09T22:26:13.093Z,866230,emily.hallett@inrs.ca,249561928,"""lab""",1
+2025-09-09T22:26:13.102Z,866230,emily.hallett@inrs.ca,249561928,"""microbial eukaryote""",1
+2025-09-09T22:26:13.109Z,866230,emily.hallett@inrs.ca,249561928,"""novel isolates""",1
+2025-09-09T22:26:13.117Z,866230,emily.hallett@inrs.ca,249561928,"""freshwater""",1
+2025-09-09T22:26:27.181Z,866230,emily.hallett@inrs.ca,249561928,included,1
+2025-09-09T22:28:06.545Z,866230,emily.hallett@inrs.ca,249561929,"""lab""",1
+2025-09-09T22:28:06.554Z,866230,emily.hallett@inrs.ca,249561929,"""marine""",1
+2025-09-09T22:28:06.561Z,866230,emily.hallett@inrs.ca,249561929,"""microbial eukaryote""",1
+2025-09-09T22:28:12.236Z,866230,emily.hallett@inrs.ca,249561929,included,0
+2025-09-09T22:29:21.636Z,866230,emily.hallett@inrs.ca,249561930,"""lab""",1
+2025-09-09T22:29:21.644Z,866230,emily.hallett@inrs.ca,249561930,"""marine""",1
+2025-09-09T22:29:21.652Z,866230,emily.hallett@inrs.ca,249561930,"""microbial eukaryote""",1
+2025-09-09T22:29:31.490Z,866230,emily.hallett@inrs.ca,249561930,included,1
+2025-09-09T22:30:56.752Z,866230,emily.hallett@inrs.ca,249561931,"""lab""",1
+2025-09-09T22:30:56.761Z,866230,emily.hallett@inrs.ca,249561931,"""marine""",1
+2025-09-09T22:30:56.768Z,866230,emily.hallett@inrs.ca,249561931,"""microbial eukaryote""",1
+2025-09-09T22:31:09.367Z,866230,emily.hallett@inrs.ca,249561931,included,1
+2025-10-13T15:11:46.398Z,857180,hwander@vt.edu,249563928,"""freshwater""",1
+2025-10-13T15:12:11.338Z,857180,hwander@vt.edu,249563928,"""microbial eukaryote""",1
+2025-10-13T15:13:18.797Z,857180,hwander@vt.edu,249563928,included,0
+2025-10-13T15:13:46.330Z,857180,hwander@vt.edu,249563929,"""freshwater""",1
+2025-10-13T15:14:26.957Z,857180,hwander@vt.edu,249563929,"""microbial eukaryote""",1
+2025-10-13T15:14:45.508Z,857180,hwander@vt.edu,249563929,included,1
+2025-10-13T15:16:11.473Z,857180,hwander@vt.edu,249563930,"""freshwater""",1
+2025-10-13T15:17:39.414Z,857180,hwander@vt.edu,249563927,"""microbial eukaryote""",1
+2025-10-13T15:18:24.738Z,857180,hwander@vt.edu,249563927,note-16283670,1
+2025-10-13T15:22:06.645Z,857180,hwander@vt.edu,249563926,"""freshwater""",1
+2025-10-13T15:22:06.663Z,857180,hwander@vt.edu,249563926,"""microbial eukaryote""",1
+2025-10-13T15:22:06.724Z,857180,hwander@vt.edu,249563926,"""lab""",1
+2025-10-13T15:22:26.280Z,857180,hwander@vt.edu,249563926,note-16283751,1
+2025-10-13T15:22:34.761Z,857180,hwander@vt.edu,249563926,included,0
+2025-10-13T15:24:39.784Z,857180,hwander@vt.edu,249563930,"""lab""",1
+2025-10-13T15:24:39.791Z,857180,hwander@vt.edu,249563930,"""microbial eukaryote""",1
+2025-10-13T15:26:07.685Z,857180,hwander@vt.edu,249563930,note-16283830,1
+2025-10-13T15:26:18.937Z,857180,hwander@vt.edu,249563930,included,0
+2025-10-13T15:27:37.989Z,857180,hwander@vt.edu,249563931,included,-1
+2025-10-13T15:31:50.846Z,857180,hwander@vt.edu,249563932,included,-1
+2025-10-13T15:33:38.224Z,857180,hwander@vt.edu,249563933,"""freshwater""",1
+2025-10-13T15:33:38.240Z,857180,hwander@vt.edu,249563933,"""lab""",1
+2025-10-13T15:33:38.249Z,857180,hwander@vt.edu,249563933,"""microbial eukaryote""",1
+2025-10-13T15:34:37.599Z,857180,hwander@vt.edu,249563933,included,1
+2025-10-13T15:44:58.184Z,857180,hwander@vt.edu,249563934,"""lab""",1
+2025-10-13T15:44:58.204Z,857180,hwander@vt.edu,249563934,"""microbial eukaryote""",1
+2025-10-13T15:45:48.849Z,857180,hwander@vt.edu,249563934,"""freshwater""",1
+2025-10-13T15:45:50.378Z,857180,hwander@vt.edu,249563934,included,0
+2025-10-13T15:47:24.165Z,857180,hwander@vt.edu,249563935,"""lab""",1
+2025-10-13T15:47:24.265Z,857180,hwander@vt.edu,249563935,"""microbial eukaryote""",1
+2025-10-13T15:47:43.006Z,857180,hwander@vt.edu,249563935,included,0
+2025-11-04T13:25:49.458Z,1010117,anika.happe@gmail.com,249561808,included,-1
+2025-11-04T13:26:00.567Z,1010117,anika.happe@gmail.com,249561808,included,-1
+2025-11-04T13:26:05.395Z,1010117,anika.happe@gmail.com,249561809,included,0
+2025-11-04T13:26:15.652Z,1010117,anika.happe@gmail.com,249561808,included,1
+2025-11-04T13:26:18.556Z,1010117,anika.happe@gmail.com,249561809,included,-1
+2025-11-04T13:27:32.299Z,1010117,anika.happe@gmail.com,249565937,included,-1
+2025-11-04T13:27:44.651Z,1010117,anika.happe@gmail.com,249565937,note-16876774,1
+2025-11-04T13:28:31.382Z,1010117,anika.happe@gmail.com,249565938,included,-1
+2025-11-04T13:28:50.520Z,1010117,anika.happe@gmail.com,249565938,note-16876800,1
+2025-11-04T13:29:06.305Z,1010117,anika.happe@gmail.com,249565939,included,-1
+2025-11-04T13:29:11.560Z,1010117,anika.happe@gmail.com,249565939,included,-1
+2025-11-04T13:29:19.834Z,1010117,anika.happe@gmail.com,249565939,note-16876814,1
+2025-11-04T13:30:15.617Z,1010117,anika.happe@gmail.com,249565940,included,1
+2025-11-04T13:30:27.915Z,1010117,anika.happe@gmail.com,249565940,note-16876844,1
+2025-11-04T13:31:13.362Z,1010117,anika.happe@gmail.com,249565940,"""novel isolates""",1
+2025-11-04T13:31:13.369Z,1010117,anika.happe@gmail.com,249565940,"""rRNA""",1
+2025-11-04T13:33:41.402Z,1010117,anika.happe@gmail.com,249565941,note-16876921,1
+2025-11-04T13:33:43.025Z,1010117,anika.happe@gmail.com,249565941,included,0
+2025-11-04T13:34:14.620Z,1010117,anika.happe@gmail.com,249565942,note-16876931,1
+2025-11-04T13:34:17.159Z,1010117,anika.happe@gmail.com,249565942,included,-1
+2025-11-04T13:35:38.452Z,1010117,anika.happe@gmail.com,249565943,included,0
+2025-11-04T13:36:02.601Z,1010117,anika.happe@gmail.com,249565943,note-16876978,1
+2025-11-04T13:36:34.440Z,1010117,anika.happe@gmail.com,249565944,included,-1
+2025-11-04T13:36:38.751Z,1010117,anika.happe@gmail.com,249565944,note-16876998,1
+2025-11-04T13:37:45.054Z,1010117,anika.happe@gmail.com,249565945,"""proteomics""",1
+2025-11-04T13:38:08.906Z,1010117,anika.happe@gmail.com,249565945,note-16877036,1
+2025-11-04T13:38:10.382Z,1010117,anika.happe@gmail.com,249565945,included,0
+2025-11-04T13:38:24.504Z,1010117,anika.happe@gmail.com,249565946,"""heterotroph""",1
+2025-11-04T13:39:22.683Z,1010117,anika.happe@gmail.com,249565946,note-16877073,1
+2025-11-04T13:39:24.963Z,1010117,anika.happe@gmail.com,249565946,included,0
+2025-11-04T13:39:55.357Z,1010117,anika.happe@gmail.com,249565947,included,1
+2025-11-04T13:41:13.904Z,1010117,anika.happe@gmail.com,249565948,note-16877116,1
+2025-11-04T13:41:16.521Z,1010117,anika.happe@gmail.com,249565948,included,0
